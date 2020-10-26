@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0049d06c3b73a044695ac31ff03e180e
+=======
+guid: fffd1e1d8736f5043ba6f556024701a7
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25
 TextureImporter:
   fileIDToRecycleName:
     21300000: UI_Itens_84x84_0
@@ -85,6 +89,20 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
+<<<<<<< HEAD
+=======
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -124,7 +142,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: fc46c6879d4bd40409652737a8104c37
+=======
+      spriteID: ba7ae52f7196b2744a713a616944e9ed
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25
       vertices: []
       indices: 
       edges: []
@@ -144,7 +166,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: e3cf869c594914e4ab902b30f2046a81
+=======
+      spriteID: f5f8449bd57a228428bb8e11d042c5e1
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25
       vertices: []
       indices: 
       edges: []
@@ -164,7 +190,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: d8b7982a76fc05a4baa581df8fb4e16e
+=======
+      spriteID: 61ee4694bff881c4f9ff94d130a57b8d
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25
       vertices: []
       indices: 
       edges: []
@@ -184,7 +214,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: 6c2b19e44887647478de5e1fe107be0a
+=======
+      spriteID: bacfb5d40a991ab4c877cf896da0b4cd
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25
       vertices: []
       indices: 
       edges: []
@@ -192,7 +226,11 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: df46a9ea94e03ae409cb49cc6b1e2b55
+=======
+    spriteID: 086b6427d9e00ac4693c0a061f35090c
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25
     vertices: []
     indices: 
     edges: []

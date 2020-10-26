@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
 guid: 1b7c206c8ec882749a32808705f427b9
+=======
+guid: 1bda434c6ec3f0c4aa3e8ff50f75baef
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
 TextureImporter:
   fileIDToRecycleName:
     21300000: Jill_Monstro_84x84_0
@@ -156,7 +160,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: a9c606bbf7f954d44b551b4a7d022151
+=======
+      spriteID: b0745f5ad7583554d9ff287277f901a5
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -176,7 +184,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 653e2c0399fce3e4281424cf2ba2c4bd
+=======
+      spriteID: b2899f47e0e74c149824503fe603c29d
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -196,7 +208,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 60174aa938bdb1047a869500dd18fb23
+=======
+      spriteID: a6cc6cd663a85ed46907043e91569e10
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -216,7 +232,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 150d4d77aad78a546bdd353ef0e23e27
+=======
+      spriteID: da8177a0453409443b4f28d257df1a1d
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -236,7 +256,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 61ade6a61f7ba18429a4da34eb9c242c
+=======
+      spriteID: 6ee87583cbb5dad4a8283ffaaedb9829
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -256,7 +280,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 7842b157b7a3bad4cb201d7f206deade
+=======
+      spriteID: 027f45a9c279cdb4787c43ce7232b3cf
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -276,7 +304,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 5b47081f88d9fb54082d19a91b3650d3
+=======
+      spriteID: 51f2894b60331fd47a59c63d9a9d9d89
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -296,7 +328,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: c723642cab6eddf46951370bcbcbc113
+=======
+      spriteID: ce3518c6cde7e6948b4b5fb298dd851e
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -316,7 +352,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: d5d525e48ee558c44adfa3b87e61a85b
+=======
+      spriteID: 60a20ad12fcdd2b4fb7251b310a80b57
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -336,7 +376,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 10be1e0e8e2dcc94cbfd854d051e0474
+=======
+      spriteID: 642711eec0f7eff4aa3c593a721c00e8
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -356,7 +400,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 154275461b9b54348b427400e0584128
+=======
+      spriteID: fd6a1b702918c1341b29452dc3e686ed
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -376,7 +424,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: c5c2e55854990d141a2ce8e2b53dbcdf
+=======
+      spriteID: 9910f7bee67df664d97287bb42730422
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -396,7 +448,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 5d2d5e5bc8465574fa4dd2c2dd8655b9
+=======
+      spriteID: 951a2c30840a4a148b4afe2a64f67ff6
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -416,7 +472,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 5ab6e0b9530e8084d884d950c499d4d8
+=======
+      spriteID: a24eaa6d6d49fb44ba1c7e7619a19541
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -436,7 +496,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 019d1894a550f3341abaf5447847b26c
+=======
+      spriteID: 2242b415daf39aa44b5774813672a6d3
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -456,7 +520,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: e2bf8b0dd00b9814796a66837ba4aeba
+=======
+      spriteID: 88973c0add685fd4b85e93861ed7039d
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -476,7 +544,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 304c65cf183f17e47af9a0144d095876
+=======
+      spriteID: 962ac3fd36cf8da4e8bd3d0f1e7b8bd7
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -496,7 +568,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: a42691a4ba5307c42957c7c046c02aff
+=======
+      spriteID: 54886bc430efc6f47b3f1f891823f367
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -516,7 +592,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: c724871a0e874db40b07a184627dfebe
+=======
+      spriteID: e3f043ca8f3ed8d4b8c0647f1b003392
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -536,7 +616,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 4de44926616df424ca071767b6ce0c22
+=======
+      spriteID: 150d0a789651e81498a149493214aafa
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -556,7 +640,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: aa9b1ddc860f36540974318bc31136dd
+=======
+      spriteID: 65e34ed914fed40499dacbe488aebb69
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -576,7 +664,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 8e0263b563563cb4699fb2675ddd074a
+=======
+      spriteID: 2b341851d74d903428e2cfc0b449ef40
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -596,7 +688,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 9e3a7428e0cd1ab469af7a2d809ebc61
+=======
+      spriteID: b682eb7b2a33a874ea5a91537f1382d2
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -616,7 +712,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 655520fd977871c46bcbac402006a217
+=======
+      spriteID: 2b013bdb83f9bfb4c897a592fb0a03a3
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -636,7 +736,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: bd620b7b5a6bfe042a0316218be4656f
+=======
+      spriteID: d0e45f0709c3dc44e8fe3bfcc52c0f3a
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -656,7 +760,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 44c5f84348504e04c82d5a7c7cfbaac0
+=======
+      spriteID: 47c4f068ac959e24fb15fba4910497da
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -676,7 +784,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: cb7925342f02b454683fc34206119c44
+=======
+      spriteID: df10ffb5bf8608340a1fa612b392678e
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -696,7 +808,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 61bdfe84f1ed2104d9d87b93a8d1ca71
+=======
+      spriteID: 777b23fdba70aae448f11635e7b127f6
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -716,7 +832,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: eca610c4bad092b46a3189ba95797f2a
+=======
+      spriteID: 3ac227912d5bf6440ace6e4bb2777ff1
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -736,7 +856,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 1bab3d3416c386d41b1b6b8345c90725
+=======
+      spriteID: c3025f12052de9046a11ff600c3262af
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -756,7 +880,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: fdc7890200f7d114eb4aee859551291e
+=======
+      spriteID: af89e097f61fbb444880f7a4a370de7f
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -776,7 +904,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: da3f3c38dd74eda4984d71cf6d2106f7
+=======
+      spriteID: 020e3484b3d81444ca70655c41d62782
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -796,7 +928,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 9a36f4daeb7b2fb45a21c7a25f50acc1
+=======
+      spriteID: 94cfbdb948cd9394ebac2f7f12157448
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -816,7 +952,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: df5be40e5e5191548924f313e96843ad
+=======
+      spriteID: 7554268a949ca7d4181f799c26393510
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -836,7 +976,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 4d9059e5c8e017f4d9cbb6bdee2d23f2
+=======
+      spriteID: 8a12ea7832bf8bd40907258edb12229c
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -856,7 +1000,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       spriteID: 507978cb4f1f4e144a7f139de2be1399
+=======
+      spriteID: 6c0e17d52fec70e408901ad74744ad0e
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
       vertices: []
       indices: 
       edges: []
@@ -864,7 +1012,11 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
+<<<<<<< HEAD:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
     spriteID: edf532ba3129b364c95eb84a1d5a2473
+=======
+    spriteID: 45b830da69e738c4088fca03bfa3d633
+>>>>>>> 7e6bf0b90c08cc11dbbb9bb41974fc143fe37f25:RPG Indie/Assets/Sprites/Jill_Monstro_84x84.png.meta
     vertices: []
     indices: 
     edges: []
